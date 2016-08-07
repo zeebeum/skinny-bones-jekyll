@@ -1,20 +1,20 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+shoichiaizawa:
+  name: Shoichi AIZAWA
+  web: https://www.google.com
+  email: username@example.com
+  bio: "A short bio description goes here."
   avatar: bio-photo.jpg
-  twitter: extravagantman
+  twitter: twitter
   google:
-    plus: +BillyRick
+    plus:
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+tanaka1121:
+  name: Motoki TANAKA
+  email: username@example.com
+  bio: "A short bio description goes here."
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: twitter
   google:
-    plus: +CorneliusFiddlebone
+    plus:
