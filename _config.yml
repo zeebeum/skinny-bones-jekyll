@@ -5,7 +5,7 @@ description: "An awesome description about Nagoya Workshop goes here"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_UK
-url: ""
+url: "https://nagoya-workshop.github.io"
 baseurl: "/skinny-bones-jekyll"
 feed:
   path: atom.xml
