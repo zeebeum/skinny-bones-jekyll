@@ -1,0 +1,67 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://nagoya-workshop.github.io/skinny-bones-jekyll/'
+  media: 'images'
+  metadata:
+    _posts/blog:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "Shoichi AIZAWA"
+              value: "shoichiaizawa"
+            - name: "Motoki TANAKA"
+              value: "tanaka1121"
+            - name: "Nagoya Workshop"
+              value: "nagoya-workshop"
+    _posts/media:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "media"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "media"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "Shoichi AIZAWA"
+              value: "shoichiaizawa"
+            - name: "Motoki TANAKA"
+              value: "tanaka1121"
+            - name: "Nagoya Workshop"
+              value: "nagoya-workshop"

@@ -18,3 +18,12 @@ tanaka1121:
   twitter: twitter
   google:
     plus:
+
+nagoya-workshop:
+  name: Nagoya Workshop
+  email: username@example.com
+  bio: "A short bio description goes here."
+  avatar: bio-photo.jpg
+  twitter: twitter
+  google:
+    plus:
