@@ -1,6 +1,7 @@
 prose:
   rooturl: '_posts'
   siteurl: 'http://nagoya-workshop.github.io/skinny-bones-jekyll/'
+  relativeLinks: 'http://nagoya-workshop.github.io/skinny-bones-jekyll/links.jsonp'
   media: 'images'
   metadata:
     _posts/blog:
