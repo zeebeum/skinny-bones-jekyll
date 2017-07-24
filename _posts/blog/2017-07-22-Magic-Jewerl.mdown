@@ -1,0 +1,13 @@
+---
+layout: article
+title: "Magic Jewerl"
+modified:
+categories: blog
+excerpt: 
+tags: []
+image: 
+  feature: 
+  teaser: Game/Magic Jewerl.png
+  thumb:
+
+---

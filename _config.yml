@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: "Nagoya Workshop"
-description: "An awesome description about Nagoya Workshop goes here"
+title: "G-STREAM"
+description: "Enjoy your games with streaming service"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_UK
-url: "https://nagoya-workshop.github.io"
-baseurl: "/skinny-bones-jekyll"
+url: ""
+baseurl: ""
 feed:
   path: atom.xml
 date_format: "%-d %B %Y"

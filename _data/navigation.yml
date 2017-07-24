@@ -5,17 +5,17 @@
 #   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
 #   image: 400x250.gif
 
-- title: Blog
+- title: Games
   url: /blog/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  excerpt: "PLAY GAMES"
+  image: Game/game1.png
 
-- title: Media
+- title: Blog
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "G-STREAM BLOG"
+  image: Game/blog1.png
 
-- title: About
+- title: About the G-STREAM
   url: /about/
-  excerpt: "All about Nagoya Workshop for Jekyll."
-  image: 400x250.gif
+  excerpt: "ABOUT G-STREAM"
+  image: Game/about1.png

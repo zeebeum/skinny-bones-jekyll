@@ -1,0 +1,13 @@
+---
+layout: article
+title: "Pop Tales"
+modified:
+categories: blog
+excerpt: 
+tags: []
+image: 
+  feature: 
+  teaser: Game/Pop Tales.png
+  thumb:
+
+---
