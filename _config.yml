@@ -6,7 +6,7 @@ logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_UK
 url: ""
-baseurl: "/test3/"
+baseurl: "/test3"
 feed:
   path: atom.xml
 date_format: "%-d %B %Y"
