@@ -1,23 +1,21 @@
 ---
 layout: media
-title: "Company Notice 3"
+title: "Event News"
 categories: media
-excerpt: "Company Notice 3"
+excerpt: "Event News"
 ads: true
 share: false
 image:
-  feature: lock-1600x800.jpg
-  teaser: lock-400x250.jpg
+  feature: blog2_2000.jpg
+  teaser: blog2_300.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
 
-This is a sample media post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+On July 22, G-STREAM, hosted a launch party for Futurama: Worlds of Tomorrow at the Avalon Theatre in Hollywood.
 
-### Thundercats Ho!
+The Nerdist’s Chris Hardwick moderated an exclusive LIVE reading of an episode of Futurama by the series’ cast and creators, followed by an exclusive Q&A with co-creator and executive producer of Futurama, David X. Cohen. Series creator Matt Groening made a special appearance and surprised guests.
 
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
+Attendees also had the opportunity to receive hands-on time with the game and press interviews were held throughout the evening.
 
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+The event was OUT OF THIS WORLD!
