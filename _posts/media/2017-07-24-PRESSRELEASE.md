@@ -1,8 +1,8 @@
 ---
 layout: media
-title: "MEMORENDUM"
+title: "PRESS RELEASE"
 categories: media
-excerpt: "MEMORENDUM"
+excerpt: "PRESS RELEASE"
 ads: true
 share: false
 image:
